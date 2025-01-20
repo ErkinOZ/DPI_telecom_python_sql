@@ -1,5 +1,9 @@
 Dpi_telecom:
 
+via VM Oracle deployed Ubuntu and also deployed mysql Base and configured the scheme there
+![Снимок экрана 2025-01-19 234031](https://github.com/user-attachments/assets/34bb1f5e-3a40-47f7-80d7-530b3a5e9f2a)
+![Снимок экрана 2025-01-19 234625](https://github.com/user-attachments/assets/d49b2954-4f2a-4be5-b74d-ae02e9e0e14e)
+
 DataFrame Description: This DataFrame contains synthetic DPI session data with 100,000 records, simulating network traffic. It includes timestamps, IP addresses, traffic volume, device types, user activities, and risk categories, useful for analyzing network usage, application interactions, and security risks.
 
 Here I generally demonstrate my experience in telecom companies where there are metrics, time series, LVT and so on.
